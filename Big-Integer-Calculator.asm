@@ -4,7 +4,7 @@
 include Irvine32.inc
 
 .data
-title BYTE "=== x86 Assembly Big Integer Calculator ===",0
+title BYTE "=== Big Integer Calculator ===",0
 msg1  BYTE "Enter first 64-bit number (high part then low part):",0
 msg2  BYTE "Enter second 64-bit number (high part then low part):",0
 msgAdd BYTE "Addition result: ",0

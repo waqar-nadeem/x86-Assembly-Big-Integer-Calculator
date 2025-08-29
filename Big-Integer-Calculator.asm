@@ -72,5 +72,6 @@ main PROC
     call CrLf
 
     call ExitProcess,0
+
 main ENDP
 END main
